@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+    int main(){
+
+	int n;
+	scanf("d",&n);
+    int curn;
+	for(curn=2;curn<=n;++curn){
+		bool isprime=true;
+        int div;
+		for(div=2;div<curn;++div){
+
+			if(curn % div ==0){
+
+				isprime=false;
+
+				break;
+
+			}
+		}
+
+			if(isprime=true){
+				printf("%d \n",curn);
+			}
+
+    }
+
+	return 0;
+}
+

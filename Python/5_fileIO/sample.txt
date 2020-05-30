@@ -1,0 +1,277 @@
+'Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe;
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+
+"Beware the Jabberwock, my son!
+The jaws that bite, the claws that catch!
+Beware the Jubjub bird, and shun
+The frumious Bandersnatch!"
+
+He took his vorpal sword in hand:
+Long time the manxome foe he sought,
+So rested he by the Tumtum tree,
+And stood a while in thought.
+
+And, as in uffish thought he stood,
+The Jabberwock, with eyes of flame,
+Came whiffling through the tulgey wood,
+And burbled as it came!
+
+One two! One two! And through and through
+The vorpal blade went snicker-snack!
+He left it dead, and with its head
+He went galumphing back.
+
+"And hast thou slain the Jabberwock?
+Come to my arms, my beamish boy!"
+"Oh frabjous day! Callooh! Callay!"
+He chortled in his joy.
+
+'Twas brillig, and the slithy toves
+Did gyre and gimble in the wabe:
+All mimsy were the borogoves,
+And the mome raths outgrabe.
+
+2 times 1 is equal to 2 
+2 times 2 is equal to 4 
+2 times 3 is equal to 6 
+2 times 4 is equal to 8 
+2 times 5 is equal to 10 
+2 times 6 is equal to 12 
+2 times 7 is equal to 14 
+2 times 8 is equal to 16 
+2 times 9 is equal to 18 
+2 times 10 is equal to 20 
+==================================================
+3 times 1 is equal to 3 
+3 times 2 is equal to 6 
+3 times 3 is equal to 9 
+3 times 4 is equal to 12 
+3 times 5 is equal to 15 
+3 times 6 is equal to 18 
+3 times 7 is equal to 21 
+3 times 8 is equal to 24 
+3 times 9 is equal to 27 
+3 times 10 is equal to 30 
+==================================================
+4 times 1 is equal to 4 
+4 times 2 is equal to 8 
+4 times 3 is equal to 12 
+4 times 4 is equal to 16 
+4 times 5 is equal to 20 
+4 times 6 is equal to 24 
+4 times 7 is equal to 28 
+4 times 8 is equal to 32 
+4 times 9 is equal to 36 
+4 times 10 is equal to 40 
+==================================================
+5 times 1 is equal to 5 
+5 times 2 is equal to 10 
+5 times 3 is equal to 15 
+5 times 4 is equal to 20 
+5 times 5 is equal to 25 
+5 times 6 is equal to 30 
+5 times 7 is equal to 35 
+5 times 8 is equal to 40 
+5 times 9 is equal to 45 
+5 times 10 is equal to 50 
+==================================================
+6 times 1 is equal to 6 
+6 times 2 is equal to 12 
+6 times 3 is equal to 18 
+6 times 4 is equal to 24 
+6 times 5 is equal to 30 
+6 times 6 is equal to 36 
+6 times 7 is equal to 42 
+6 times 8 is equal to 48 
+6 times 9 is equal to 54 
+6 times 10 is equal to 60 
+==================================================
+7 times 1 is equal to 7 
+7 times 2 is equal to 14 
+7 times 3 is equal to 21 
+7 times 4 is equal to 28 
+7 times 5 is equal to 35 
+7 times 6 is equal to 42 
+7 times 7 is equal to 49 
+7 times 8 is equal to 56 
+7 times 9 is equal to 63 
+7 times 10 is equal to 70 
+==================================================
+8 times 1 is equal to 8 
+8 times 2 is equal to 16 
+8 times 3 is equal to 24 
+8 times 4 is equal to 32 
+8 times 5 is equal to 40 
+8 times 6 is equal to 48 
+8 times 7 is equal to 56 
+8 times 8 is equal to 64 
+8 times 9 is equal to 72 
+8 times 10 is equal to 80 
+==================================================
+9 times 1 is equal to 9 
+9 times 2 is equal to 18 
+9 times 3 is equal to 27 
+9 times 4 is equal to 36 
+9 times 5 is equal to 45 
+9 times 6 is equal to 54 
+9 times 7 is equal to 63 
+9 times 8 is equal to 72 
+9 times 9 is equal to 81 
+9 times 10 is equal to 90 
+==================================================
+10 times 1 is equal to 10 
+10 times 2 is equal to 20 
+10 times 3 is equal to 30 
+10 times 4 is equal to 40 
+10 times 5 is equal to 50 
+10 times 6 is equal to 60 
+10 times 7 is equal to 70 
+10 times 8 is equal to 80 
+10 times 9 is equal to 90 
+10 times 10 is equal to 100 
+==================================================
+11 times 1 is equal to 11 
+11 times 2 is equal to 22 
+11 times 3 is equal to 33 
+11 times 4 is equal to 44 
+11 times 5 is equal to 55 
+11 times 6 is equal to 66 
+11 times 7 is equal to 77 
+11 times 8 is equal to 88 
+11 times 9 is equal to 99 
+11 times 10 is equal to 110 
+==================================================
+12 times 1 is equal to 12 
+12 times 2 is equal to 24 
+12 times 3 is equal to 36 
+12 times 4 is equal to 48 
+12 times 5 is equal to 60 
+12 times 6 is equal to 72 
+12 times 7 is equal to 84 
+12 times 8 is equal to 96 
+12 times 9 is equal to 108 
+12 times 10 is equal to 120 
+==================================================
+ 1 times 2 is equal to 2 
+ 2 times 2 is equal to 4 
+ 3 times 2 is equal to 6 
+ 4 times 2 is equal to 8 
+ 5 times 2 is equal to 10 
+ 6 times 2 is equal to 12 
+ 7 times 2 is equal to 14 
+ 8 times 2 is equal to 16 
+ 9 times 2 is equal to 18 
+10 times 2 is equal to 20 
+==================================================
+ 1 times 3 is equal to 3 
+ 2 times 3 is equal to 6 
+ 3 times 3 is equal to 9 
+ 4 times 3 is equal to 12 
+ 5 times 3 is equal to 15 
+ 6 times 3 is equal to 18 
+ 7 times 3 is equal to 21 
+ 8 times 3 is equal to 24 
+ 9 times 3 is equal to 27 
+10 times 3 is equal to 30 
+==================================================
+ 1 times 4 is equal to 4 
+ 2 times 4 is equal to 8 
+ 3 times 4 is equal to 12 
+ 4 times 4 is equal to 16 
+ 5 times 4 is equal to 20 
+ 6 times 4 is equal to 24 
+ 7 times 4 is equal to 28 
+ 8 times 4 is equal to 32 
+ 9 times 4 is equal to 36 
+10 times 4 is equal to 40 
+==================================================
+ 1 times 5 is equal to 5 
+ 2 times 5 is equal to 10 
+ 3 times 5 is equal to 15 
+ 4 times 5 is equal to 20 
+ 5 times 5 is equal to 25 
+ 6 times 5 is equal to 30 
+ 7 times 5 is equal to 35 
+ 8 times 5 is equal to 40 
+ 9 times 5 is equal to 45 
+10 times 5 is equal to 50 
+==================================================
+ 1 times 6 is equal to 6 
+ 2 times 6 is equal to 12 
+ 3 times 6 is equal to 18 
+ 4 times 6 is equal to 24 
+ 5 times 6 is equal to 30 
+ 6 times 6 is equal to 36 
+ 7 times 6 is equal to 42 
+ 8 times 6 is equal to 48 
+ 9 times 6 is equal to 54 
+10 times 6 is equal to 60 
+==================================================
+ 1 times 7 is equal to 7 
+ 2 times 7 is equal to 14 
+ 3 times 7 is equal to 21 
+ 4 times 7 is equal to 28 
+ 5 times 7 is equal to 35 
+ 6 times 7 is equal to 42 
+ 7 times 7 is equal to 49 
+ 8 times 7 is equal to 56 
+ 9 times 7 is equal to 63 
+10 times 7 is equal to 70 
+==================================================
+ 1 times 8 is equal to 8 
+ 2 times 8 is equal to 16 
+ 3 times 8 is equal to 24 
+ 4 times 8 is equal to 32 
+ 5 times 8 is equal to 40 
+ 6 times 8 is equal to 48 
+ 7 times 8 is equal to 56 
+ 8 times 8 is equal to 64 
+ 9 times 8 is equal to 72 
+10 times 8 is equal to 80 
+==================================================
+ 1 times 9 is equal to 9 
+ 2 times 9 is equal to 18 
+ 3 times 9 is equal to 27 
+ 4 times 9 is equal to 36 
+ 5 times 9 is equal to 45 
+ 6 times 9 is equal to 54 
+ 7 times 9 is equal to 63 
+ 8 times 9 is equal to 72 
+ 9 times 9 is equal to 81 
+10 times 9 is equal to 90 
+==================================================
+ 1 times 10 is equal to 10 
+ 2 times 10 is equal to 20 
+ 3 times 10 is equal to 30 
+ 4 times 10 is equal to 40 
+ 5 times 10 is equal to 50 
+ 6 times 10 is equal to 60 
+ 7 times 10 is equal to 70 
+ 8 times 10 is equal to 80 
+ 9 times 10 is equal to 90 
+10 times 10 is equal to 100 
+==================================================
+ 1 times 11 is equal to 11 
+ 2 times 11 is equal to 22 
+ 3 times 11 is equal to 33 
+ 4 times 11 is equal to 44 
+ 5 times 11 is equal to 55 
+ 6 times 11 is equal to 66 
+ 7 times 11 is equal to 77 
+ 8 times 11 is equal to 88 
+ 9 times 11 is equal to 99 
+10 times 11 is equal to 110 
+==================================================
+ 1 times 12 is equal to 12 
+ 2 times 12 is equal to 24 
+ 3 times 12 is equal to 36 
+ 4 times 12 is equal to 48 
+ 5 times 12 is equal to 60 
+ 6 times 12 is equal to 72 
+ 7 times 12 is equal to 84 
+ 8 times 12 is equal to 96 
+ 9 times 12 is equal to 108 
+10 times 12 is equal to 120 
+==================================================
